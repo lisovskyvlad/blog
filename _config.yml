@@ -27,8 +27,6 @@ github_username:  lisovskyvlad
 # Build settings
 markdown: kramdown
 theme: jekyll-athena
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock

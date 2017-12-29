@@ -18,8 +18,6 @@ GEM
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
     jekyll-athena (0.0.2)
-    jekyll-feed (0.8.0)
-      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
     jekyll-watch (1.5.1)
@@ -52,7 +50,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.6, >= 3.6.2)
   jekyll-athena
-  jekyll-feed (~> 0.6)
 
 RUBY VERSION
    ruby 2.4.0p0
