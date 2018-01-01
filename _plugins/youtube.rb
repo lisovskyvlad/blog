@@ -12,7 +12,7 @@ class YouTube < Liquid::Tag
 
   def render(_context)
     %(<iframe width="600" height="600"
-              src="http://www.youtube.com/embed/#{@id}?color=white&theme=light">
+              src="https://www.youtube.com/embed/#{@id}?color=white&theme=light">
       </iframe>)
   end
 
