@@ -1,0 +1,11 @@
+.DS_Store
+_site
+.sass-cache
+.jekyll-metadata
+.git
+.gitignore
+.ruby-version
+
+Dockerfile
+docker-compose.yml
+README.md
